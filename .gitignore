@@ -8,8 +8,8 @@
 # testing
 /coverage
 
-# production
-/build
+# production : Commented Since not ignoring this. Will use this as built code for git profile
+#/build
 
 # misc
 .DS_Store
